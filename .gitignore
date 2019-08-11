@@ -1,9 +1,4 @@
-/target
-.classpath
-.project
-.settings/*
-dependency-reduced-pom.xml
-/doc
-.idea
-*.iml
-/bin
+
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
